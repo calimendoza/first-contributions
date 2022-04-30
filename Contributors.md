@@ -5,6 +5,7 @@
 - [akavort]
 - [Iftikhar #100Devs](https://github.com/ifti891)
 - [wyt0000]
+- [Victor](https://github.com/calimendoza)
 - [wyt](https://github.com/wyt)
 - [Josue](https://github.com/jpsphaxer)
 - [ankushkumarshukla ]
